@@ -1,11 +1,11 @@
 {
-  "name": "@abul2285/aloha-world",
+  "name": "@abul2285/test-2285",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Abul Hossain <mdabulhossain780@gmail.com>",
-  "homepage": "https://github.com/abul2285/hello-learna#readme",
+  "homepage": "https://github.com/abul2285/hello-lerna#readme",
   "license": "ISC",
-  "main": "lib/aloha-world.js",
+  "main": "lib/test-2285.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -15,12 +15,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abul2285/hello-learna.git"
+    "url": "git+https://github.com/abul2285/hello-lerna.git"
   },
   "scripts": {
-    "test": "node ./__tests__/aloha-world.test.js"
+    "test": "node ./__tests__/test-2285.test.js"
   },
   "bugs": {
-    "url": "https://github.com/abul2285/hello-learna/issues"
+    "url": "https://github.com/abul2285/hello-lerna/issues"
   }
 }
