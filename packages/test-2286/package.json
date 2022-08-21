@@ -1,0 +1,26 @@
+{
+  "name": "test-2286",
+  "version": "0.0.2",
+  "description": "> TODO: description",
+  "author": "Abul Hossain <mdabulhossain780@gmail.com>",
+  "homepage": "https://github.com/abul2285/hello-lerna#readme",
+  "license": "ISC",
+  "main": "lib/test-2286.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abul2285/hello-lerna.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/test-2286.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/abul2285/hello-lerna/issues"
+  }
+}
