@@ -1,6 +1,6 @@
 {
   "name": "@abul2285/test-2286",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "Abul Hossain <mdabulhossain780@gmail.com>",
   "homepage": "https://github.com/abul2285/hello-lerna#readme",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/abul2285/hello-lerna/issues"
   },
-  "gitHead": "20583313fe4e1826a053c99166ff5a78d0c9827d"
+  "gitHead": "d0ee7c8e2c69b76e64f74865d9c8d9ca3c07b2c2"
 }
