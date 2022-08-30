@@ -26,5 +26,8 @@
   "gitHead": "d0ee7c8e2c69b76e64f74865d9c8d9ca3c07b2c2",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "rollup": "^2.78.1"
   }
 }
