@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/abul2285/hello-lerna/compare/v0.4.0...v0.5.0) (2022-08-30)
+
+
+### Features
+
+* remove preRelease script ([7bdea7c](https://github.com/abul2285/hello-lerna/commit/7bdea7c30e1aea177c492ca60d8b0713d3ea9404))
+
+
+
+
+
 # [0.4.0](https://github.com/abul2285/hello-lerna/compare/v0.2.0...v0.4.0) (2022-08-30)
 
 
