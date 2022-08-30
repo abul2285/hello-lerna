@@ -1,6 +1,10 @@
 name: Publish
 
 on:
+  push:
+    branches:
+      - development
+      - main
   pull_request:
     types: [closed]
     branches:
@@ -8,7 +12,7 @@ on:
       - main
 jobs:
   publish:
-    if: github.event.pull_request.merged == true # Condition
+    # if: github.event.pull_request.merged == true # Condition
     runs-on: ubuntu-latest
 
     steps:
