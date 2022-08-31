@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.1](https://github.com/abul2285/hello-lerna/compare/v0.5.0...v0.5.1) (2022-08-31)
+
+
+### Features
+
+* update publish action ([b483e01](https://github.com/abul2285/hello-lerna/commit/b483e0116dec17a22592df3904b8083e730cd1d0))
+
+
+
+
+
 # [0.5.0](https://github.com/abul2285/hello-lerna/compare/v0.4.0...v0.5.0) (2022-08-30)
 
 
