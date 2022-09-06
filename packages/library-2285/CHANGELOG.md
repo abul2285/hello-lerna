@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.2](https://github.com/abul2285/hello-lerna/compare/v0.5.1...v0.5.2) (2022-09-06)
+
+
+### Bug Fixes
+
+* prepublishOnly change with _prepublishOnly ([be570c3](https://github.com/abul2285/hello-lerna/commit/be570c3e0be14188f9502a3928ff5c56277fc7c1))
+
+
+
+
+
 ## [0.5.1](https://github.com/abul2285/hello-lerna/compare/v0.5.0...v0.5.1) (2022-08-31)
 
 **Note:** Version bump only for package @abul2285/library-2285
