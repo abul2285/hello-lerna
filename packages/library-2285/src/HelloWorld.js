@@ -1,7 +1,7 @@
 import React from 'react';
 
 const HelloWorld = () => {
-  return <div>Hello World!</div>;
+  return <div>Hello Lerna!</div>;
 };
 
 export default HelloWorld;
