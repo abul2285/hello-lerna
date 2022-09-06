@@ -3,6 +3,43 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.6.0-beta.0](https://github.com/abul2285/hello-lerna/compare/v0.5.2...v0.6.0-beta.0) (2022-09-06)
+
+
+### Bug Fixes
+
+* change hello world to hello lerna ([fcc9097](https://github.com/abul2285/hello-lerna/commit/fcc9097f76a1576a081dcf9d6aed0a7c29092ad1))
+
+
+### Features
+
+* transform HelloWorld class component to functional component ([e72cf65](https://github.com/abul2285/hello-lerna/commit/e72cf65c3809380b438223f2a04472eda2390f4b))
+* update HelloWorld component message ([5cf3867](https://github.com/abul2285/hello-lerna/commit/5cf3867811cc5bcb7cfb9ec714277948c1bdd4a7))
+
+
+
+## [0.3.3-beta.0](https://github.com/abul2285/hello-lerna/compare/v0.3.2...v0.3.3-beta.0) (2022-08-30)
+
+
+
+## [0.3.2](https://github.com/abul2285/hello-lerna/compare/v0.3.1...v0.3.2) (2022-08-30)
+
+
+
+## [0.3.1](https://github.com/abul2285/hello-lerna/compare/v0.3.0...v0.3.1) (2022-08-30)
+
+
+
+# [0.3.0](https://github.com/abul2285/hello-lerna/compare/v0.3.0-beta.0...v0.3.0) (2022-08-30)
+
+
+
+# [0.3.0-beta.0](https://github.com/abul2285/hello-lerna/compare/v0.2.0...v0.3.0-beta.0) (2022-08-30)
+
+
+
+
+
 ## [0.5.2](https://github.com/abul2285/hello-lerna/compare/v0.5.1...v0.5.2) (2022-09-06)
 
 
